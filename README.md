@@ -17,11 +17,7 @@ Hi there! 👋 I'm Dereje Tesfaye, a passionate and motivated working student fr
 ![](https://github-profile-trophy.vercel.app/?username=dere-tesfa&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=dere-tesfa&limit=5&theme=default&combine_all_yearly_contributions=true)
-
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light  ### 🔝 Top Contributed Repo![](https://github-contributor-stats.vercel.app/api?username=dere-tesfa&limit=5&theme=default&combine_all_yearly_contributions=true)
 ---
 [![](https://visitcount.itsvg.in/api?id=dere-tesfa&icon=2&color=6)](https://visitcount.itsvg.in)
 
