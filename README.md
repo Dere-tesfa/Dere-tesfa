@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat)
 [![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Followers&style=social)](https://github.com/yourusername)
-[![LinkedIn Badge](https://img.shields.io/badge/-DerejeTesfaye-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yourname)
+[![LinkedIn Badge](https://img.shields.io/badge/-DerejeTesfaye-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin)
 
 ---
 
@@ -41,7 +41,8 @@
 
 ### 🌐 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dereje%20Tesfaye-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourname)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dereje%20Tesfaye-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin)
+[![Telegram](https://img.shields.io/badge/Telegram-Channel-blue?style=for-the-badge&logo=telegram)](https://t.me/yourtelegramchannel)
 [![Email](https://img.shields.io/badge/Email-youremail@example.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
 [![GitHub](https://img.shields.io/badge/GitHub-yourusername-black?style=for-the-badge&logo=github)](https://github.com/yourusername)
 
