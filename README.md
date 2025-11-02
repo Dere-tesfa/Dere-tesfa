@@ -1,20 +1,50 @@
+# 👋 Hi, I'm Dereje Tesfaye  
 
-# 💫 About Me:
-Hi there! 👋 I'm Dereje Tesfaye, a passionate and motivated working student from Ethiopia, currently pursuing my studies in Software Engineering. I'm always excited about solving real-world problems with code and building innovative digital solutions.<br><br>I'm currently focused on deepening my skills in React.js and TypeScript, exploring how to build robust, scalable, and modern web applications. I enjoy turning complex problems into clean and efficient code.<br>
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat)
+[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Followers&style=social)](https://github.com/yourusername)
+[![LinkedIn Badge](https://img.shields.io/badge/-DerejeTesfaye-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yourname)
 
+---
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Dere Aki) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Dereje Tesfaye) 
+### 👨‍💻 About Me  
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dere-tesfa&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=dere-tesfa&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dere-tesfa&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+- 🔭 I’m currently working on **a University Lost & Found System** using the **MERN Stack (MongoDB, Express, React, Node.js)**.  
+- 👯 I’m looking to collaborate on **open-source web development projects** and **innovative student systems**.  
+- 🤝 I’m looking for help with **deploying full-stack apps** and **optimizing backend performance**.  
+- 🌱 I’m currently learning **Next.js**, **TypeScript**, and **RESTful APIs**.  
+- 💬 Ask me about **React, Node.js, C++, networking projects, or database design**.  
+- ⚡ Fun fact: I debug faster with coffee ☕ and music 🎧.  
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dere-tesfa&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+---
 
+### 🧠 Skills & Tools  
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📊 GitHub Stats  
+
+![Dereje's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+
+---
+
+### 🌐 Connect With Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dereje%20Tesfaye-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourname)
+[![Email](https://img.shields.io/badge/Email-youremail@example.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-yourusername-black?style=for-the-badge&logo=github)](https://github.com/yourusername)
+
+---
+
+⭐️ From [yourusername](https://github.com/yourusername)
