@@ -23,9 +23,9 @@
 
 
 ## 📊 GitHub Stats & Trophies
-<p align="center">
+<p align="center display="flex" >
   <a href="https://github.com/dere-tesfa">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dere-tesfa&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="dere-tesfa's GitHub Stats" />
+    <img height="180em src="https://github-readme-stats-eight-theta.vercel.app/api?username=dere-tesfa&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="dere-tesfa's GitHub Stats" />
   </a>
   <img src="https://streak-stats.demolab.com/?user=dere-tesfa&theme=radical&hide_border=true&cache_seconds=86400" alt="dere-tesfa's GitHub Streak" width="49%" />
 </p>
