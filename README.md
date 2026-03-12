@@ -62,7 +62,7 @@
 </p>
 
 ## 🔗 Connect with Me
-<p align="left"> <a href="https://www.linkedin.com/feed/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Dereje Tesfaye's LinkedIn"/></a> <a href="https://x.com/home?lang=en" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=FF00FF" alt="Dereje Tesfaye's Twitter"/></a> <a href="mailto:deretesfa6@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Dereje Tesfaye's Email"/></a></p>
+<p align="left"> <a href="https://www.linkedin.com/dereje-tesfaye" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Dereje Tesfaye's LinkedIn"/></a> <a href="https://x.com/home?lang=en" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=FF00FF" alt="Dereje Tesfaye's Twitter"/></a> <a href="mailto:deretesfa6@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Dereje Tesfaye's Email"/></a></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
