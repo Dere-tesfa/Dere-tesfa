@@ -23,14 +23,15 @@
 
 
 ## 📊 GitHub Stats & Trophies
-<p align="center display="flex" >
-  <a href="https://github.com/dere-tesfa">
-    <img height="180em src="https://github-readme-stats-eight-theta.vercel.app/api?username=dere-tesfa&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="dere-tesfa's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=dere-tesfa&theme=radical&hide_border=true&cache_seconds=86400" alt="dere-tesfa's GitHub Streak" width="49%" />
-</p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=dere-tesfa&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Dereje Tesfaye's GitHub Trophies" />
+  <a href="https://github.com/dere-tesfa">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dere-tesfa&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" height="180em" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=dere-tesfa&theme=radical&hide_border=true&cache_seconds=86400" height="180em" />
+</p>
+
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=dere-tesfa&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" />
 </p>
 
 
